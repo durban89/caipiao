@@ -1,0 +1,25 @@
+{
+  "name": "caipiao",
+  "version": "1.0.0",
+  "description": "caipiao,彩票",
+  "main": "./main.js",
+  "scripts": {
+    "test": "mocha caipiao.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangda89/caipiao.git"
+  },
+  "bin": { "caipiao": "./bin/main.js" },
+  "keywords": [
+    "caipiao",
+    "彩票"
+  ],
+  "author": "Durban <zhangdapeng89@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.8.1",
+    "lodash": "^3.10.0"
+  }
+}
