@@ -1,6 +1,6 @@
 {
   "name": "caipiao",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "caipiao,彩票",
   "main": "./bin/main.js",
   "scripts": {
