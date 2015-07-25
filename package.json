@@ -2,7 +2,7 @@
   "name": "caipiao",
   "version": "1.0.0",
   "description": "caipiao,彩票",
-  "main": "./main.js",
+  "main": "./bin/main.js",
   "scripts": {
     "test": "mocha caipiao.js"
   },
